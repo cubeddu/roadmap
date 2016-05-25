@@ -5,7 +5,6 @@
 - Poetic web developer will need to integrate the Algolia search
 - Dependent on Camden vetting Algolia and committing to service
 - Regional landing pages - where people are sent from a search engine or direct link to search results - will also need to communicate with Algolia to list results by distance
-- Reordering the search on other criteria, such as price.  Although this should be possible with Algolia once the data feed is set up.
 
 #Goals:
 - Goal 1: Geo Sorting of results(metros, communities, neighborhood).
